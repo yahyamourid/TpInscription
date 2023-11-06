@@ -17,4 +17,28 @@ This backend is built using Spring Boot, a powerful and flexible Java-based fram
 ### Swagger-ui
 ![image](https://github.com/yahyamourid/TpInscription/assets/128039351/8602df9d-7262-4e9c-9994-cc0f9a1eaa40)
 
+## Web Frontend
+### Web Frontend Overview
+Our web application provides a user-friendly interface for managing student data efficiently. It is built using React, a popular JavaScript library for building user interfaces, and styled with Tailwind CSS, a utility-first CSS framework that makes styling and customization a breeze.
+### Technologies Used
+- **React**:React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of the application efficiently.
+- **TailwindCss**:Tailwind CSS is a utility-first CSS framework that provides low-level utility classes for building custom designs without leaving your HTML markup.
+### Vedio Demo
+
+
+https://github.com/yahyamourid/TpInscription/assets/128039351/22b71053-5872-41d3-be3c-9fa62acd4a67
+
+
+## Android 
+### Vedio Demo
+
+https://github.com/yahyamourid/TpInscription/assets/128039351/497938ac-6542-4f52-b76e-ac5ee317f6a7
+
+---
+**Contact** : mouriyahya180@gmail.com
+[Visit : ](http://mourid.me)
+
+
+
+
 
