@@ -1,7 +1,7 @@
 # Student Management System
 The Student Management System is a comprehensive application designed to manage student data efficiently. It consists of a backend developed with Spring Boot,
 a web frontend built using React and Tailwind CSS, and a mobile app created with Java in Android Studio.
---
+
 ## Backend
 ### Backend Overview
 This backend is built using Spring Boot, a powerful and flexible Java-based framework for building enterprise-level applications. It provides a robust and scalable foundation for our student management system.
