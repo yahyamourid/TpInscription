@@ -37,7 +37,7 @@ https://github.com/yahyamourid/TpInscription/assets/128039351/497938ac-6542-4f52
 ---
 **Contact** : mouriyahya180@gmail.com
 ---
-[Visit : ](http://mourid.me)
+Visit : http://mourid.me
 
 
 
